@@ -4,4 +4,10 @@ Git commands
 
 2. git init
 
-3.https://github.com/ratnasai2206/Demo_git_Batch-1.git
+3. git add . // for all the files
+
+4. git add filename
+
+5.https://github.com/ratnasai2206/Demo_git_Batch-1.git
+
+
